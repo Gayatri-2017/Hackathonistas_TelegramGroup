@@ -1,9 +1,13 @@
-# Hackathonistas
-A one stop destination to get notified about the latest hackathons all around the world in a variety of domains like Artificial Intelligence , Machine Learning , Web Development , Android Development etc. If you are looking to team up for any hackathon , a Telegram group by me consisting of Hackathon enthusiasts are here to help you always . You may join the group [here](https://t.me/joinchat/I54yzEjJfNaZpkMmFXRDkg) . Happy hacking & happy sharing .
+# Hackathonistas Telegram Group ([Join here](https://t.me/joinchat/I54yzEjJfNaZpkMmFXRDkg))
+
+- A one stop destination to get notified about the latest hackathons all around the world in a variety of domains like Artificial Intelligence , Machine Learning , Web Development , Android Development etc. If you are looking to team up for any hackathon , a Telegram group by me consisting of Hackathon enthusiasts are here to help you always , join with the link shared above .
+
+## Eligibility for joining the group
+
+Everyone is eligible, even people who've never participated in any hackathon , never coded before ( Documenting things also require a person ) etc. and are ready to strive on an awesome journey of building things within a short span of time !!
+
+## Thanks for joining the group -  Ayon Roy !! 
+
+If you see anything above violating your privacy/lifestyle , immediately report it to Ayon Roy over Telegram [here](https://t.me/ayonroy2000).
 
 
-## Hackathons
-
-| name        | date                    | Location                                            | website                                                                                                          | additional information |
-|-------------|-------------------------|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------|
-| Angelhack Delhi | 4/5/2019 - 5/5/2019 | Delhi,India | [Angelhack Delhi](https://www.eventbrite.com/e/angelhack-2019-delhi-tickets-58778043711) | -                      |
