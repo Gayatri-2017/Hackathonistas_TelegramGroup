@@ -1,5 +1,7 @@
 ## List of Hackathons
 
+The list is updated regularly with new hackathon opportunities , so keep an eye over this space .
+
 | Name        | Date                    | Location                                            | Website                                                                                                          | Additional Details |
 |-------------|-------------------------|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------|
 | Angelhack Delhi | 4/5/2019 - 5/5/2019 | Delhi,India | [Angelhack Delhi](https://www.eventbrite.com/e/angelhack-2019-delhi-tickets-58778043711) | -                      |
