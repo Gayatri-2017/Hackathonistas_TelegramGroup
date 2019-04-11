@@ -4,6 +4,16 @@ A one stop destination to get notified about the latest hackathons all around th
 
 ### Check out the list of various Hackathons you may consider participating [here](https://github.com/ayonroy2000/Hackathonistas_TelegramGroup/blob/master/Hackathons.md) .
 
+## What is a hackathon ?
+
+A hackathon is an event which is being organized for a certain duration where people come together to solve problems with digital means and present them to each other.In short terms it`s a party full of people who share a passion for technology.
+
+## Why you should attend a hackathon ?
+
+Attending a hackathon is a good way to grow your professional network and show off your talents to prospective employers. 
+
+### Check out the complete Hackathon Handbook [here](https://www.hackerearth.com/hackathon/).
+
 ## Eligibility for joining the group
 
 Everyone is eligible, even people who've never participated in any hackathon , never coded before ( Documenting things also require a person ) etc. and are ready to strive on an awesome journey of building things within a short span of time !!
