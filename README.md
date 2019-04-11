@@ -2,7 +2,7 @@
 
 A one stop destination to get notified about the latest hackathons all around the world in a variety of domains like Artificial Intelligence , Machine Learning , Web Development , Android Development etc. If you are looking to team up for any hackathon , a Telegram group by me consisting of Hackathon enthusiasts are here to help you always , join with the link shared above .
 
-### Check out the list of various Hackathons you may consider participating ([here](https://github.com/ayonroy2000/Hackathonistas/blob/master/Hackathons.md))
+### Check out the list of various Hackathons you may consider participating [here](https://github.com/ayonroy2000/Hackathonistas/blob/master/Hackathons.md) .
 
 ## Eligibility for joining the group
 
