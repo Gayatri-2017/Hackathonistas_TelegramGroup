@@ -5,6 +5,8 @@ Want to participate in a hackathon , but still searching of a team member ? End 
 
 | Name        | Date                    | Location                                            | Website                                                                                                          | Additional Details |
 |-------------|-------------------------|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------|
+| WMN; - India Biggest Women-Only Hackathon + ConferenceI| 1/6/2019 - 2/6/2019 Register till 30/4/2019  | Bangalore, India | [Visit here](https://wmn.community/) | Female Only |
+||||||
 | Angelhack Delhi | 4/5/2019 - 5/5/2019 | Delhi,India | [Visit here](https://www.eventbrite.com/e/angelhack-2019-delhi-tickets-58778043711) | -                      |
 ||||||
 | MongoDB World Hackathon | Register till 30/4/2019 | Online | [Visit here](https://mongodbworld19.devpost.com/) | -                      |
@@ -18,3 +20,4 @@ Want to participate in a hackathon , but still searching of a team member ? End 
 | Picnic Hackathon | Register till 14/4/2019 | Online | [Visit here](https://picnic.devpost.com/) | -                      |
 ||||||
 | Appian Hackathon | Register till 15/4/2019 | Online | [Visit here](https://appian.devpost.com/) | -                      |
+
