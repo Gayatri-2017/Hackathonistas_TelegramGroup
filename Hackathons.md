@@ -1,7 +1,7 @@
 ## List of Hackathons
 
 The list is updated regularly with new hackathon opportunities , so keep an eye over this space .
-Want to participate in a hackathon , but still searching of a team member ? End your search by expressing your interest via a message [here](https://t.me/joinchat/I54yzEjJfNaZpkMmFXRDkg) .
+Want to participate in a hackathon , but still searching of a team member ? End your search by expressing your interest via a message [here](https://t.me/hackathonistas) .
 
 | Name        | Date                    | Location                                            | Website                                                                                                          | Additional Details |
 |-------------|-------------------------|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------|
