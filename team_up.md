@@ -16,5 +16,11 @@ Demo :
 	* [x] Aditya | Telegram Username -> @AdiSHA512
 
 - LTFS Data Science FinHack ( ML Hackathon) -> https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/
+	* [x] Gayathri Ganpathy | Telegram Username -> @GayatriGanapathy
+	* [x] Aditya | Telegram Username -> @AdiSHA512
+
+
+
+- LTFS Data Science FinHack ( ML Hackathon) -> https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/
         * [x] Saurabh Mhatre | Telegram Username -> @smhatre59
 	* [x] Aditya | Telegram Username -> @AdiSHA512
