@@ -17,4 +17,4 @@ Demo :
 
 - LTFS Data Science FinHack ( ML Hackathon) -> https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/
 	* [x] Saurabh Mhatre | Telegram Username -> @smhatre59
-	* [x] Aditya | Telegram Username -> @AdiSHA512
+
