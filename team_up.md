@@ -6,14 +6,14 @@ You may add your name along with your telegram username ( so that you may connec
 
 Demo : 
 
-- [ ]  Hackathon Name -> Hackathon Link
+- Hackathon Name -> Hackathon Link
         * [x] Your name | Your Telegram Username -> _______
 	* [x] Ayon Roy | Telegram Username -> @ayonroy2000
 
 
 # Add your name under the Hackathon or add new one 
 
-- [ ]  vesAIthon -> https://vesaithon.ves.ac.in/
+- vesAIthon -> https://vesaithon.ves.ac.in/
 	* [x] Gayathri Ganpathy | Telegram Username -> @GayatriGanapathy
 	* [x] Aditya | Telegram Username -> @AdiSHA512
 
