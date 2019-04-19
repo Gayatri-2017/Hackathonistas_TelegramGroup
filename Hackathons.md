@@ -5,6 +5,8 @@ Want to participate in a hackathon , but still searching of a team member ? End 
 
 | Name        | Date                    | Location                                            | Website                                                                                                          | Additional Details |
 |-------------|-------------------------|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------|
+| Predicting Restaurant Food Cost Hackathon | Running | Online | [Visit here](https://www.machinehack.com/course/predicting-restaurant-food-cost-hackathon/) | -                      |
+||||||
 | LTFS Data Science FinHack | Closes on 21/4/2019 | Online | [Visit here](https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/) | -                      |
 ||||||
 | Club Mahindra DataOlympics | Closes on 5/5/2019 | Online | [Visit here](https://datahack.analyticsvidhya.com/contest/club-mahindra-dataolympics/) | -                      |
