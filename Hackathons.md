@@ -7,6 +7,8 @@ Want to participate in a hackathon , but still searching of a team member ? End 
 |-------------|-------------------------|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------|
 | #Hack19 ( Flutter Hackathon ) | 1/6/2019 | Offline ( Multiple Locations ) | [Visit here](https://flutterhackathon.com/#) | -                      |
 ||||||
+| Intel® Python HackFury2 | 17/6/2019 | Online | [Visit here](https://software.seek.intel.com/PythonHackfury-2019_Reg#register) | Working Professionals Only                      |
+||||||
 | Genesis Hack | Till 30/6/2019 | Online ( Multiple Locations ) | [Visit here](https://www.hackerearth.com/challenges/hackathon/genesis-hack-2019/) | -                      |
 ||||||
 | Innovate to Inspire | Upcoming | Offline ( Multiple Locations ) | [Visit here](https://www.incubateind.com/inspirehackathon/) | -                      |
