@@ -11,10 +11,6 @@ Demo :
 
 # Add your name under the Hackathon or add new one to team up
 
-- vesAIthon -> https://vesaithon.ves.ac.in/
-	* [x] Gayathri Ganpathy | Telegram Username -> @GayatriGanapathy
-	* [x] Aditya | Telegram Username -> @AdiSHA512
-
 - LTFS Data Science FinHack ( ML Hackathon) -> https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/
 	* [x] Saurabh Mhatre | Telegram Username -> @smhatre59
 
